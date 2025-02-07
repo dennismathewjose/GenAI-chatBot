@@ -1,0 +1,165 @@
+{
+    "name": "Dennis Jose",
+    "location": "Boston, MA",
+    "email": "jose.de@northeastern.edu",
+    "phone": "+1 (862) 440-7362",
+    "github": "GitHub",
+    "linkedin": "LinkedIn",
+    "education": [
+      {
+        "institution": "Northeastern University",
+        "location": "Boston, MA",
+        "degree": "Master of Science in Data Analytics Engineering",
+        "graduation_date": "MAY 2026",
+        "gpa": "4/14",
+        "relevant_courses": [
+          "Foundations of Data Analytics Engineering",
+          "Data Management for Analytics",
+          "Data Mining",
+          "Natural Language Processing"
+        ]
+      },
+      {
+        "institution": "Government Engineering College",
+        "location": "Thrissur, India",
+        "degree": "Bachelor of Technology, Electronics and Communication Engineering",
+        "graduation_date": "JUNE 2023",
+        "gpa": "8.98/10",
+        "relevant_courses": [
+          "Wireless Communication",
+          "Signals & Systems",
+          "Machine Learning",
+          "Optimization Techniques",
+          "Robotics",
+          "Data Analysis",
+          "Python for engineers",
+          "Digital Signal Processing",
+          "Computer Architecture"
+        ],
+        "academic_awards": [
+          "First Class with distinction",
+          "Chairperson - IEEE Student Branch"
+        ]
+      }
+    ],
+    "technical_skills": {
+      "languages": [
+        "Python",
+        "MySQL",
+        "JAVA",
+        "Apache Spark SQL",
+        "PL/SQL",
+        "C++"
+      ],
+      "software_tools": [
+        "Tableau",
+        "MATLAB",
+        "Microsoft Office Suite",
+        "Anaconda",
+        "Database Management",
+        "Apache Spark",
+        "Apache Kafka",
+        "Jupyter Lab"
+      ],
+      "hardware": [
+        "Raspberry Pi",
+        "Arduino",
+        "8051 Microcontroller"
+      ],
+      "libraries": [
+        "OpenCV",
+        "Pandas",
+        "NumPy",
+        "Seaborn",
+        "Matplotlib",
+        "Scikit learn",
+        "Keras",
+        "TensorFlow",
+        "Plotly.express",
+        "PySpark",
+        "Google BigQuery"
+      ],
+      "ml_skills": [
+        "Data Processing",
+        "Data Cleaning",
+        "Outlier Detection",
+        "Data Modeling",
+        "Predictive Analytics",
+        "Statistical Modelling",
+        "Applied Natural Language Processing (NLP)",
+        "Writing ETL scripts"
+      ]
+    },
+    "professional_experience": [
+    {
+      "company": "Oracle",
+      "location": "Bengaluru, India",
+      "position": "Associate Consultant",
+      "duration": "JULY 2023 – JULY 2024",
+      "responsibilities": [
+        "Customized oracle banking application using JAVA and PL/SQL, optimizing it to align with client-specific requirements and to enhance the overall system performance for improved operational efficiency.",
+        "Developed custom solutions in the OBPM module of Oracle Flexcube to automate and streamline MX payment messages for creditors and debtors, improving transaction efficiency and compliance with payment standards.",
+        "Analyzed the client needs by collaborating with cross-functional teams, holding daily meetings and task updates, to gather precise client specifications and define targeted customization requirements, hence ensuring seamless alignment between development and client needs.",
+        "Maintained Oracle Database systems to ensure high availability and performance for critical financial applications."
+      ]
+      }
+    ],
+    "academic_projects": [
+      {
+        "title": "F1 Team Performance Tracker",
+        "institution": "Northeastern University",
+        "duration": "SEPTEMBER 2024 – NOVEMBER 2024",
+        "description": [
+          "Developing an F1 Team Performance Data Management System that tracks and analyzes key performance metrics, including team standings, driver results and race statistics using advanced database management.",
+          "Leveraged SQL for data querying and analytics thus supporting data-driven decision-making for optimizing team performance across multiple seasons."
+        ]
+      },
+      {
+        "title": "Advanced Waste Segregation",
+        "institution": "Government Engineering College",
+        "duration": "JANUARY 2023 – JUNE 2023",
+        "description": [
+          "Developed a machine learning-based waste classification system using CNN, and integrated it with Raspberry Pi 4B, to automate real-time sorting of recyclable and organic waste.",
+          "Used Pi Camera to capture the image of the waste, and used servo motors powered by Raspberry Pi to automate the process."
+        ]
+      },
+      {
+        "title": "Crime Data Analysis",
+        "institution": "Northeastern University",
+        "duration": "SEPTEMBER 2024 – OCTOBER 2024",
+        "description": [
+          "Data-driven analysis of crime trends, using time-series analysis leveraging predictive modelling to forecast future crime patterns.",
+          "Visualized trends, patterns, and regional crime variation using interactive plotly.express graphs to analyze the crime data, enabling stakeholders to identify hotspots and understand spatial and temporal dynamics through intuitive visualizations.",
+          "Forecasted future crime rates using predictive models such as ARIMA, generating a detailed report with key insights to generate data-driven decision-making and proactive law enforcement strategies."
+        ]
+      },
+      {
+        "title": "Customer Segmentation Using RFM Analysis",
+        "institution": "Northeastern University",
+        "duration": "OCTOBER 2024 – NOVEMBER 2024",
+        "description": [
+          "Performed Customer Segmentation using RFM Analysis to classify ecommerce customers based on purchasing behaviour, leveraging Python for data preprocessing, RFM metric computation, and clustering techniques (e.g., K-Means) to identify actionable customer groups.",
+          "Developed data-driven marketing strategies by profiling customer segments, visualizing RFM distribution and cluster insights, and providing targeted recommendations to improve customer retention and revenue growth."
+        ]
+      },
+      {
+        "title": "EEG Classification Model",
+        "institution": "Northeastern University",
+        "duration": "NOVEMBER 2024 – DECEMBER 2024",
+        "description": [
+          "Built an EEG classification model using CNN machine learning algorithm, applying preprocessing, feature extraction (RQA, Recurrence Network), and data augmentation for enhanced accuracy in medical diagnostics.",
+          "Optimized model performance through dropout, early stopping, and hyperparameter tuning, achieving strong evaluation metrics on training, validation, and test sets."
+        ]
+      },
+      {
+        "title": "Real-Time Data Pipeline with Kafka, Spark, and BigQuery",
+        "institution": "Northeastern University",
+        "duration": "JANUARY 2025 - PRESENT",
+        "description": [
+          "Implemented a real-time data pipeline to ingest, transform, and store streaming data for efficient analytics and decision-making.",
+          "Built a scalable data pipeline using Kafka for real-time data ingestion, PySpark for transformation, and BigQuery for storage, enabling seamless processing of streaming data from Google Cloud Storage.",
+          "Optimized data transformation workflows with PySpark, ensuring data quality and scalability, and wrote cleaned data back to BigQuery for real-time analytics and reporting."
+        ]
+      }
+    ]
+  }
